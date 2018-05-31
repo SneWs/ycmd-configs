@@ -7,4 +7,6 @@ Rename the Windows 10 1803 - VS 2017 Basic .ycm_extra_conf.py to just .ycm_extra
 the root folder of a C++ project with MFC or any other Windows C/C++ based project. _Please Note_ that you will have to add in additional paths for
 your project to make the completion engine completely happy.
 
+### macOS ###
+Rename the macOS-10_13.ycm_extra_conf.py to .ycm_extra_conf.py and copy it to where you want to use it. _NOTE:_ Make sure to adjust any Xcode paths and macOS SDK paths to suit your needs. 
 
